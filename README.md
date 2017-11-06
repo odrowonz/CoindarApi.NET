@@ -14,5 +14,7 @@ Installing [Microsoft .NET Framework 4.5] (or higher) is a requirement for both 
 [Microsoft .NET Framework 4.5]: http://www.microsoft.com/download/details.aspx?id=30653
 
 Donate BTC: 13s4H7ZvTeVdJsyHs5BqmuepuJyVNTuUuV
+
 Donate LTC: LVUA6jRDvrAUYpnszjPPPz3CjpSpchPUBD
+
 Donate ETH: 0x9265FF60b711aD7f6A96acabF86f6e4b5aB551Ef
