@@ -1,0 +1,17 @@
+﻿<Window x:Class="Odry.CoindarAPI.Demo.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Coindar API .NET Demo"
+        Width="455" Height="349">
+    <Grid Margin="10">
+        <DataGrid x:Name="DataGrid1" IsReadOnly="True" HeadersVisibility="Column" ColumnWidth="80">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Start date" Binding="{Binding Path=StartDate}" SortDirection="Ascending"/>
+                <DataGridTextColumn Header="Coin symbol" Binding="{Binding Path=CoinSymbol}"/>
+                <DataGridTextColumn Header="Coin name" Binding="{Binding Path=CoinName}"/>
+                <DataGridTextColumn Header="End date" Binding="{Binding Path=EndDate}"/>
+                <DataGridTextColumn Header="Caption" Binding="{Binding Path=Caption}"/>
+            </DataGrid.Columns>
+        </DataGrid>
+    </Grid>
+</Window>

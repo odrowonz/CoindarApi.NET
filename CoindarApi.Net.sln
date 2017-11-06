@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoindarApi.Net.Lib", "CoindarApi.Net\CoindarApi.Net.Lib.csproj", "{BC5546FA-4F27-4A57-ABE0-2691D1E8B51C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoindarApi.Net.Console", "CoindarApi.Net.Console\CoindarApi.Net.Console.csproj", "{846292FD-76EA-41D9-AD2B-766DED3D189D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoindarApi.Net.Demo", "CoindarApi.Net.Demo\CoindarApi.Net.Demo.csproj", "{10D79671-870B-4088-9100-69E3CAAF364C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC5546FA-4F27-4A57-ABE0-2691D1E8B51C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC5546FA-4F27-4A57-ABE0-2691D1E8B51C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC5546FA-4F27-4A57-ABE0-2691D1E8B51C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC5546FA-4F27-4A57-ABE0-2691D1E8B51C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{846292FD-76EA-41D9-AD2B-766DED3D189D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{846292FD-76EA-41D9-AD2B-766DED3D189D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{846292FD-76EA-41D9-AD2B-766DED3D189D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{846292FD-76EA-41D9-AD2B-766DED3D189D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{10D79671-870B-4088-9100-69E3CAAF364C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10D79671-870B-4088-9100-69E3CAAF364C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10D79671-870B-4088-9100-69E3CAAF364C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10D79671-870B-4088-9100-69E3CAAF364C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
